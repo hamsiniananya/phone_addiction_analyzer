@@ -21,4 +21,7 @@ ML Project analyzing smartphone usage behavior and predicting addiction patterns
 - Model training
 - Evaluation
 - Insights & recommendations
+### Dataset
+- The dataset includes app usage statistics such as screen time, launches, interactions, and productivity labels.
+Due to size considerations, the dataset is not included in this repository.
 ### Outcome- Achieved 95% accuracy in predicting addiction behavior using engineered features.
